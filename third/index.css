@@ -1,1 +1,41 @@
-body
+body, html {
+    margin: 0;
+    padding: 0;
+
+}
+.hori {
+    height: 100px;
+    width: 100%;
+}
+
+.words {
+    height: 200px;
+    width: 100%;
+}
+.hori1 {
+    background-color:#d8d8d8;
+    box-sizing: border-box;
+    padding: 25px;
+}
+.hori1-div {
+    height: 50px;
+    width: 50px;
+    background-color:#4a90e2 ;
+}
+.hori2 {
+    box-sizing: border-box;
+    padding: 50px;  
+    background-color: #ffffff;
+}
+.hori3 {
+    background-color: #4a90e2;
+}
+.hori4 {
+    background-color: #50e3c2;
+}
+.hori5 {
+    background-color: #b8e986;
+}
+.hori6 {
+    background-color: #f8e71c;
+}
