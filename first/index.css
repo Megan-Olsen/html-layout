@@ -1,6 +1,23 @@
 body {
-    background-color:#efefef ;
+    background-color: #d8d8d8 ;
     margin: 0;
     width: 100%;
     height: 100 vh;
+}
+.header {
+    background-color:#444444 ;
+    width: 100%;
+    height: 20vh;
+}
+.content-stuff {
+    background-color:#efefef ;
+    margin: 0 auto;
+    width: 75%;
+    height:65vh;
+}
+.footer {
+    background-color: #000000;
+    margin: 0 auto;
+    width: 75%; 
+    height: 15vh;
 }
